@@ -1,3 +1,5 @@
 here i append some new stuff to check functionality of git
 
 now im here check difference
+
+new text
